@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Enterprise Business Rules", "1. Enterprise Business Rules", "{32762386-43D1-4596-AD65-4ABC5F973517}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application Business Rules", "2. Application Business Rules", "{C585EA4D-6E98-443B-8D45-7AFC78DBB75E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Interface Adapters", "3. Interface Adapters", "{EC919E57-873A-4B23-AEAF-98BB19C48956}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Frameworks and Drivers", "4. Frameworks and Drivers", "{1BEB5062-AF96-44A3-BF9F-44EB5A99FC14}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
